@@ -1,3 +1,6 @@
 {
-    "mongoURI": "mongodb+srv://stanislav:42Lesh543!@cluster0.gnjdk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://stanislav:42Lesh543!@cluster0.gnjdk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "d5a9109822de845c8f03",
+    "githubSecret": "dca480244257c2ca6341c45e81fae3e599e0c949"
 }
